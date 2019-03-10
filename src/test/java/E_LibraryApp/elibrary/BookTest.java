@@ -3,7 +3,9 @@ package E_LibraryApp.elibrary;
 import junit.framework.TestCase;
 
 public class BookTest extends TestCase {
-    
+	/**
+	 * @wi.implements elibrary/EL-225 Implementing testBook method
+	 */
     public void testBook() {
         String title = "The C Programming Language"; 
         String author = "Kernighan & Ritchie";
