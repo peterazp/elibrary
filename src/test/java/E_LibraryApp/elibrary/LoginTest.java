@@ -9,7 +9,7 @@ import junit.framework.TestCase;
 public class LoginTest extends TestCase {
     
     public void testLogin() {
-        assertTrue("Cannot login as Karl Xavier", false);
+        assertTrue("Cannot login as Carl Xavier", false);
     }
 
     public void testLogout() {
