@@ -60,8 +60,8 @@
         <testFailureIgnore>true</testFailureIgnore>
        <!--   <include>BookTest.java</include>
           <include>LibraryTest.java</include> -->
-           <exclude>LoginTest.java</exclude> 
-           <excludes> 
+           <excludes>
+           <exclude>LoginTest.java</exclude>
             <exclude>${exclude.tests.pattern}</exclude> 
           </excludes>
         </configuration>
