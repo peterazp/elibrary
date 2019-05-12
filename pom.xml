@@ -61,7 +61,7 @@
        <!--   <include>BookTest.java</include>
           <include>LibraryTest.java</include> -->
            <excludes>
-        <!--   <exclude>LoginTest.java</exclude> -->
+        <exclude>LoginTest.java</exclude>
             <exclude>${exclude.tests.pattern}</exclude> 
           </excludes>
         </configuration>
