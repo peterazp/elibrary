@@ -23,7 +23,7 @@ public class Book {
     }
 
     /**
-     * Returns title of this book.
+     * Returns title of this boook.
      */
     public String getTitle() {
         return this.title;
